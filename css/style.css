@@ -1,0 +1,156 @@
+.container{
+    max-width: 1440px;
+    max-width: 100%;
+    margin: 0 auto;
+    border: 3px solid red;
+}
+
+
+/* Header Start  */
+
+header{
+    display: flex;
+    border: 3px solid green;
+    align-items: center;
+    justify-content: space-between;
+    padding: 24px 2.22%;
+}
+
+.Logo_Div{
+    display: flex;
+}
+
+.BRAND{
+    font-weight: 900;
+    font-size: 24.65px;
+    line-height: 26.41px;
+
+    color: #000000;
+    font-family: 'Inter', sans-serif; 
+}
+
+.TM{
+    font-weight: 900;
+    font-size: 8.22px;
+    line-height: 8.8px;
+
+    color: #000000;
+    font-family: 'Inter', sans-serif; 
+}
+
+ul{
+    display: flex;
+    gap: 24px;
+}
+
+.Action_button{
+border-radius: 32px;
+padding: 12px 24px;
+background-color: #000000;
+border: 0px;
+cursor: pointer;
+
+font-weight: 700;
+color: white;
+font-size: 16px;
+line-height: 24px;
+font-family: 'Inter', sans-serif; 
+}
+/* Header End  */
+
+/* Section 1 Start  */
+
+.Section_1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 64px 11.45%;
+
+}
+
+
+.section_1_div1{
+width: 44.14%;
+display: flex;
+flex-direction: column;
+
+border: 3px solid yellow;
+
+}
+h1{
+font-weight: 900;
+font-size: 56px;
+line-height: 60px;
+
+font-family: 'Inter', sans-serif; 
+}
+
+.Section1_P{
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+font-family: 'Inter', sans-serif; 
+margin-top:4.89%;
+margin-bottom:8.16%;
+}
+
+.div_inside_section_1_div1{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.P_next_to_Button{
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 20px;
+font-family: 'Inter', sans-serif; 
+}
+/* Section 1 End */
+
+/* Section 1_2 start  */
+
+.Section_1_2{
+    display: flex;
+    justify-content: space-between;
+    padding: 64px 10.416%;
+    background-color: #F3F3F3;
+}
+
+.brown_div{
+    max-width: 30%;
+    gap: 22px;
+    border: 3px solid pink;
+    
+}
+
+.brown_div_P{
+    border: 3px solid red;
+    margin-top: 22px;
+}
+
+.Dot_Text{
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    border: 3px solid purple;
+}
+
+.dot{
+height: 40px;
+width: 40px;
+background-color: #000000;
+border-radius: 50%;
+
+}
+
+.Dot_text_h2{
+
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 28px;
+font-family: 'Inter', sans-serif;
+
+}
