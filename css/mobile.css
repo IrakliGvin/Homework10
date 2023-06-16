@@ -1,0 +1,83 @@
+@media (max-width:600px){
+
+
+    .BRAND{
+font-size: 17.2081px;
+line-height: 18px;
+    }
+
+.TM{
+font-size: 5.73605px;
+line-height: 6px;
+}
+
+nav{
+    display: none;
+}
+
+.section_1_div1{
+padding: 0px;
+}
+
+.Action_button_header{
+    display: none;
+}
+
+.burger{
+    display: block;
+
+
+}
+
+.pillow_small_tablet{
+    display: none;
+}
+
+.pillow_mobile{
+    display: block;
+    max-width: 100%;
+    
+}
+
+.Section_1_2{
+    padding: 24px 6.4%;
+
+}
+
+
+.section_2{
+    gap: 14px;
+}
+
+
+.Shelfs_small_tablet{
+    display: none;
+}
+
+.Shelfs_mobile{
+    display: block;
+}
+
+.Section_2_h2{
+    font-size: 16px;
+}
+
+.Section_2_P{
+    font-size: 14px;
+}
+
+.Section_3{
+    background-size: 375px 500px;
+    padding: 134px 50px;
+}
+
+.Section_2_H2{
+font-size: 28px;
+}
+
+footer{
+align-items: center;
+}
+
+
+}

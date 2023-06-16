@@ -1,0 +1,91 @@
+@media (max-width:744px) {
+
+
+.Section_1{
+    padding: 0px 3.2% 24px 3.2%;
+}
+
+.section_1_div1{
+    width: 100%;
+row-gap: 24px;
+}
+
+h1{
+font-size: 40px;
+line-height: 48px;
+}
+
+.div_inside_section_1_div1{
+    flex-direction: column;
+}
+
+.Pillow_tablet{
+    display: none;
+}
+
+.pillow_small_tablet{
+    display: block;
+}
+
+.Section_1_2{
+    flex-direction: column;
+    /* border: 3px solid yellow; */
+    text-align: center;
+    padding: 0px;
+    justify-content: space-around;
+}
+
+.brown_div{
+    max-width: 100%;
+}
+
+.Dot_Text{
+justify-content: space-around;
+justify-content: center;
+}
+
+.shelfs_tablet{
+    display: none;
+}
+
+.Shelfs_small_tablet{
+    display: block;
+}
+
+.section_2_div{
+    flex-direction: column;
+    /* border: 3px solid red; */
+    gap: 29px;
+
+
+}
+
+.for_tablet_DIV1{
+    width: 100%;
+    text-align: center;
+}
+
+.for_tablet_DIV2{
+    width: 100%;
+    text-align: center;
+}
+
+.Section_3{
+background-size: 744px 500px;
+padding: 158px 0px;
+
+
+}
+
+.white_button{
+    margin-top: 0px; 
+    /* წესით 8 უნდა იყოს მაგრამ მერე თეთრ ხაზს უკეთერბს ქვემოთ */
+}
+
+footer{
+    padding: 25.73px;
+    gap: 20px;
+}
+
+
+}
